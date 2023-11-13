@@ -13,3 +13,4 @@ v49 on: repetition (70 min)
 [YouTube-spellista om fysik](https://www.youtube.com/playlist?list=PLUx1NFKWh2OGMSiIEH2w4P-HaR8j6CyW5)  
 [Scratch-studio för Fysik 2](https://scratch.mit.edu/studios/33395332)  
 [Scratch-studio för fysik i allmänhet](https://scratch.mit.edu/studios/243209)
+https://gy.orbin.se/fysik/b/  
