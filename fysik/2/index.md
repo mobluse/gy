@@ -9,11 +9,11 @@ v49 ti: dopplereffekt (65 min)
 v49 on: repetition (70 min)  
 
 [exam.net/fysik](https://exam.net/fysik)  
-App | Android | iPhone  
---- | --- | ---  
-GeoGebra Calculator Suite | [Android](https://play.google.com/store/apps/details?id=org.geogebra.android.calculator.suite) | [iPhone](https://apps.apple.com/us/app/geogebra-calculator-suite/id1504416652?platform=iphone)  
-Physics Toolbox Sensor Suite | [Android](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite) | [iPhone](https://apps.apple.com/cy/app/physics-toolbox-sensor-suite/id1128914250?platform=iphone)  
-phyphox | [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) | [iPhone](https://apps.apple.com/us/app/phyphox/id1127319693?platform=iphone)  
+| App | Android | iPhone |  
+| --- | --- | --- |  
+| GeoGebra Calculator Suite | [Android](https://play.google.com/store/apps/details?id=org.geogebra.android.calculator.suite) | [iPhone](https://apps.apple.com/us/app/geogebra-calculator-suite/id1504416652?platform=iphone) |  
+| Physics Toolbox Sensor Suite | [Android](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite) | [iPhone](https://apps.apple.com/cy/app/physics-toolbox-sensor-suite/id1128914250?platform=iphone) |  
+| phyphox | [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) | [iPhone](https://apps.apple.com/us/app/phyphox/id1127319693?platform=iphone) |  
 
 [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
 [PhET Fysik](https://phet.colorado.edu/en/simulations/filter?locale=sv&subjects=physics&type=html,prototype)  
