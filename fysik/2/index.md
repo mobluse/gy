@@ -27,7 +27,7 @@ v49 on: repetition (70 min)
 * [Feynman's Messenger Lectures](https://www.feynmanlectures.caltech.edu/messenger.html)  
 * [Georgios Smedja: Fysik 2](http://www.georgiostheodoridis.se/sv/articles.php?cid=8)  
 * [Matematikbegrepp på olika språk](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/resurser-for-undervisning-i-modersmal#h-Matematikbegreppochandramaterialforundervisningimatematik)
-* [Shock diamond](https://en.wikipedia.org/wiki/Shock_diamond) från foto på https://photos.app.goo.gl/jkHCUrvScrMH8fqaA
+* [Shock diamond](https://en.wikipedia.org/wiki/Shock_diamond) från foto på [Photos](https://photos.app.goo.gl/jkHCUrvScrMH8fqaA)
 
 Boktips:  
 * *Repetitionskurs i fysik* av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
