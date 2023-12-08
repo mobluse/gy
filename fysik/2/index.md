@@ -1,12 +1,12 @@
 # Fysik 2
-v46 ti: resonans (30 min)  
+v46 ti: resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
 v46 on: genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
-v47 ti: pulser, vågor, stående våg i sträng (65 min)  
-v47 on: ljudhastighet, stående vågor i pipor (70 min)  
-v48 ti: ljud, dB (65 min)  
+v47 ti: pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
+v47 on: ljudhastighet, stående vågor i pipor, panflöjt, oscilloskop med mikrofon, longitudinella vågor med fjäder (70 min)  
+v48 ti: ljud, ljudnivå, dB, hörselskador, SoundEar, bullermätare i app (65 min)  
 v48 on: studiedag (0 min)  
-v49 ti: dopplereffekt (65 min)  
-v49 on: repetition (70 min)  
+v49 ti: dopplereffekt, vågkar, överljudsfarkoster, film om ljud (65 min)  
+v49 on: repetition, frågesport, uppgifter (70 min, 35 min för de flesta)  
 
 * [exam.net/fysik](https://exam.net/fysik)  
 
