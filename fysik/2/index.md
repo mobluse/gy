@@ -1,12 +1,12 @@
 # Fysik 2
-v46 ti: resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
-v46 on: genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
-v47 ti: pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
-v47 on: ljudhastighet, stående vågor i pipor, panflöjt, oscilloskop med mikrofon, longitudinella vågor med fjäder (70 min)  
-v48 ti: [ljud, ljudnivå, dB, hörselskador](https://www.overleaf.com/read/qbbmyhngskdz#1fcd87), SoundEar, bullermätare i app (65 min)  
-v48 on: studiedag (0 min)  
-v49 ti: [dopplereffekt](https://www.overleaf.com/read/gmmrszkgdqfv#04abc9), vågkar, överljudsfarkoster, film om ljud (65 min)  
-v49 on: repetition, frågesport, uppgifter (70 min, 35 min för de flesta)  
+**v46 ti:** resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
+**v46 on:** genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
+**v47 ti:** pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
+**v47 on:** ljudhastighet, stående vågor i pipor, panflöjt, oscilloskop med mikrofon, longitudinella vågor med fjäder (70 min)  
+**v48 ti:** [ljud, ljudnivå, dB, hörselskador](https://www.overleaf.com/read/qbbmyhngskdz#1fcd87), SoundEar, bullermätare i app (65 min)  
+**v48 on:** studiedag (0 min)  
+**v49 ti:** [dopplereffekt](https://www.overleaf.com/read/gmmrszkgdqfv#04abc9), vågkar, överljudsfarkoster, film om ljud (65 min)  
+**v49 on:** repetition, frågesport, uppgifter (70 min, 35 min för de flesta)  
 
 * [exam.net/fysik](https://exam.net/fysik)  
 
@@ -14,7 +14,8 @@ v49 on: repetition, frågesport, uppgifter (70 min, 35 min för de flesta)
 | --- | --- | --- |  
 | GeoGebra Calculator Suite | [Android](https://play.google.com/store/apps/details?id=org.geogebra.android.calculator.suite) | [iPhone](https://apps.apple.com/us/app/geogebra-calculator-suite/id1504416652?platform=iphone) |  
 | Physics Toolbox Sensor Suite | [Android](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite) | [iPhone](https://apps.apple.com/cy/app/physics-toolbox-sensor-suite/id1128914250?platform=iphone) |  
-| phyphox | [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) | [iPhone](https://apps.apple.com/us/app/phyphox/id1127319693?platform=iphone) |  
+| phyphox | [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox) | [iPhone](https://apps.apple.com/us/app/phyphox/id1127319693?platform=iphone) |
+| Buller | [Android](https://play.google.com/store/apps/details?id=se.av.buller) | [iPhone](https://apps.apple.com/se/app/buller/id418022274?platform=iphone) |
 | Crash Course | [Android](https://play.google.com/store/apps/details?id=com.complexly.thecrashcourse) | [iPhone](https://apps.apple.com/us/app/crash-course-watch-and-study/id1505594172) |  
 
 * [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
