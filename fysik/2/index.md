@@ -1,4 +1,4 @@
-# Fysik 2
+# Fysik 2, 100 poäng
 **v46 ti:** resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
 **v46 on:** genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
 **v47 ti:** pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
