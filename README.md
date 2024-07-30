@@ -24,7 +24,9 @@
     * [Matematik 5](https://mobluse.github.io/gy/matematik/5/)
     * [Matematik - specialisering](https://mobluse.github.io/gy/matematik/specialisering/)
 * [Naturvetenskaplig specialisering](https://mobluse.github.io/gy/naturvetenskaplig_specialisering/)
-* Processteknik - energi
+* [Processteknik – energi](https://mobluse.github.io/gy/processteknik-energi/)
+    * [Processteknik – energi 1](https://mobluse.github.io/gy/processteknik-energi/1/)
+    * [Processteknik – energi 2](https://mobluse.github.io/gy/processteknik-energi/2/)
 * Programmering
     * [Programmering 1](https://mobluse.github.io/gy/programmering/1/)
     * [Programmering 2](https://mobluse.github.io/gy/programmering/2/)
