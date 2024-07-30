@@ -1,1 +1,1 @@
-# Fysik 1a
+# Fysik 1a, 150 poäng
