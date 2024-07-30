@@ -1,5 +1,5 @@
 # gy
-## Webbsidor för gymnasiet
+## Webbsidor för kurser i gymnasieskolan
 * [Fysik 1a](https://mobluse.github.io/gy/fysik/1a/)
 * [Fysik 2](https://mobluse.github.io/gy/fysik/2/)
 * [Matematik 1c](https://mobluse.github.io/gy/matematik/1c/)
