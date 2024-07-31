@@ -6,7 +6,7 @@
     * [Cad 3](https://mobluse.github.io/gy/cad/3/)
     * [Cad - specialisering](https://mobluse.github.io/gy/cad/specialisering/)
 * [Datalagring](https://mobluse.github.io/gy/datalagring/)
-* [Dator- och kommunikationsteknik](https://github.com/mobluse/gydator-_och_kommunikationsteknik/)
+* [Dator- och kommunikationsteknik](https://github.com/mobluse/gy/dator-_och_kommunikationsteknik/)
 * [Elektronik](https://github.com/mobluse/gy/elektronik/)
 * [Ellära](https://github.com/mobluse/gy/ellara/)
 * [Ellära och digitalteknik - flyg](https://github.com/mobluse/gy/ellara_och_digitalteknik-flyg/)
