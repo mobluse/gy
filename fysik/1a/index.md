@@ -55,7 +55,7 @@
 **v51 ti (85 min):**  
 **v51 on (95 min):**  
 **v51 fr (0 min):** julavslutning  
-**v52 ti (0 min):** jullov 
+**v52 ti (0 min):** jullov  
 **v52 on (0 min):** jullov  
 **v52 fr (0 min):** jullov  
 **v1 ti (0 min):** jullov  
@@ -103,15 +103,15 @@
 **v15 ti (85 min):**  
 **v15 on (95 min):**  
 **v15 fr (80 min):**  
-**v16 ti (85 min):** påsklov  
-**v16 on (95 min):** påsklov  
-**v16 fr (80 min):** påsklov  
+**v16 ti (0 min):** påsklov  
+**v16 on (0 min):** påsklov  
+**v16 fr (0 min):** påsklov  
 **v17 ti (85 min):**  
 **v17 on (95 min):**  
 **v17 fr (80 min):**  
 **v18 ti (85 min):**  
 **v18 on (95 min):**  
-**v18 fr (80 min):** lov  
+**v18 fr (0 min):** lov  
 **v19 ti (85 min):**  
 **v19 on (95 min):**  
 **v19 fr (80 min):**  
@@ -123,13 +123,13 @@
 **v21 fr (80 min):**  
 **v22 ti (85 min):**  
 **v22 on (95 min):**  
-**v22 fr (80 min):** lov  
+**v22 fr (0 min):** lov  
 **v23 ti (85 min):**  
-**v23 on (95 min):**  
-**v23 fr (80 min):**  
-**v24 ti (85 min):**  
-**v24 on (95 min):**  
-**v24 fr (80 min):**  
+**v23 on (0 min):** skolavslutning  
+**v23 fr (0 min):** nationaldagen 
+**v24 ti (0 min):**  
+**v24 on (0 min):**  
+**v24 fr (0 min):**  
 
 * [exam.net/fysik](https://exam.net/fysik)  
 
