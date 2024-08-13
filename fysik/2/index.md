@@ -38,10 +38,10 @@
 **v51 on (80 min):**  
 **v52 ti (0 min):** jullov  
 **v52 on (0 min):** jullov  
-**v1 ti (80 min):**  
-**v1 on (80 min):**  
-**v2 ti (80 min):**  
-**v2 on (80 min):**  
+**v1 ti (0 min):** jullov  
+**v1 on (0 min):** jullov  
+**v2 ti (0 min):** jullov  
+**v2 on (80 min):** elevstart  
 **v3 ti (80 min):**  
 **v3 on (80 min):**  
 **v4 ti (80 min):**  
