@@ -1,5 +1,4 @@
 # Fysik 2, 100 poäng
-**v33 ti (80 min):**  
 **v33 on (80 min):**  
 **v34 ti (80 min):**  
 **v34 on (80 min):**  
