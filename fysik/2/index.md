@@ -1,12 +1,92 @@
 # Fysik 2, 100 poäng
-**v46 ti:** resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
-**v46 on:** genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
-**v47 ti:** pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
-**v47 on:** ljudhastighet, stående vågor i pipor, panflöjt, oscilloskop med mikrofon, longitudinella vågor med fjäder (70 min)  
-**v48 ti:** [ljud, ljudnivå, dB, hörselskador](https://www.overleaf.com/read/qbbmyhngskdz#1fcd87), SoundEar, bullermätare i app (65 min)  
-**v48 on:** studiedag (0 min)  
-**v49 ti:** [dopplereffekt](https://www.overleaf.com/read/gmmrszkgdqfv#04abc9), vågkar, överljudsfarkoster, film om ljud (65 min)  
-**v49 on:** repetition, frågesport, uppgifter (70 min, 35 min för de flesta)  
+**v33 ti (80 min):**  
+**v33 on (80 min):**  
+**v34 ti (80 min):**  
+**v34 on (80 min):**  
+**v35 ti (80 min):**  
+**v35 on (80 min):**  
+**v36 ti (80 min):**  
+**v36 on (80 min):**  
+**v37 ti (80 min):**  
+**v37 on (80 min):**  
+**v38 ti (80 min):**  
+**v38 on (80 min):**  
+**v39 ti (0 min):** studiedag  
+**v39 on (80 min):**  
+**v40 ti (80 min):**  
+**v40 on (80 min):**  
+**v41 ti (80 min):**  
+**v41 on (80 min):**  
+**v42 ti (80 min):**  
+**v42 on (80 min):**  
+**v43 ti (80 min):**  
+**v43 on (80 min):**  
+**v44 ti (0 min):** höstlov  
+**v44 on (0 min):** höstlov  
+**v45 ti (80 min):**  
+**v45 on (80 min):**  
+**v46 ti (80 min):** resonans, pendlar av olika slag, film om Tacoma Narrows Bridge (30 min)  
+**v46 on (80 min):** genomgång av uppgift 227; frekvens; mätning av vågutbredningshastighet i grunt vatten (70 min)  
+**v47 ti (80 min):** pulser, vågor, stående våg i sträng, gitarrstämmare (65 min)  
+**v47 on (80 min):** ljudhastighet, stående vågor i pipor, panflöjt, oscilloskop med mikrofon, longitudinella vågor med fjäder (70 min)  
+**v48 ti (80 min):** [ljud, ljudnivå, dB, hörselskador](https://www.overleaf.com/read/qbbmyhngskdz#1fcd87), SoundEar, bullermätare i app (65 min)  
+**v48 on (0 min):** studiedag (0 min)  
+**v49 ti (80 min):** [dopplereffekt](https://www.overleaf.com/read/gmmrszkgdqfv#04abc9), vågkar, överljudsfarkoster, film om ljud (65 min)  
+**v49 on (80 min):** repetition, frågesport, uppgifter (70 min, 35 min för de flesta)  
+**v50 ti (80 min):**  
+**v50 on (80 min):**  
+**v51 ti (80 min):**  
+**v51 on (80 min):**  
+**v52 ti (0 min):** jullov  
+**v52 on (0 min):** jullov  
+**v1 ti (80 min):**  
+**v1 on (80 min):**  
+**v2 ti (80 min):**  
+**v2 on (80 min):**  
+**v3 ti (80 min):**  
+**v3 on (80 min):**  
+**v4 ti (80 min):**  
+**v4 on (80 min):**  
+**v5 ti (80 min):**  
+**v5 on (80 min):**  
+**v6 ti (80 min):**  
+**v6 on (80 min):**  
+**v7 ti (80 min):**  
+**v7 on (80 min):**  
+**v8 ti (0 min):** sportlov  
+**v8 on (0 min):** sportlov  
+**v9 ti (80 min):**  
+**v9 on (80 min):**  
+**v10 ti (80 min):**  
+**v10 on (80 min):**  
+**v11 ti (80 min):**  
+**v11 on (80 min):**  
+**v12 ti (80 min):**  
+**v12 on (80 min):**  
+**v13 ti (80 min):**  
+**v13 on (0 min):** studiedag  
+**v14 ti (80 min):**  
+**v14 on (80 min):**  
+**v15 ti (80 min):**  
+**v15 on (80 min):**  
+**v16 ti (0 min):** påsklov  
+**v16 on (0 min):** påsklov  
+**v17 ti (80 min):**  
+**v17 on (80 min):**  
+**v18 ti (80 min):**  
+**v18 on (80 min):**  
+**v19 ti (80 min):**  
+**v19 on (80 min):**  
+**v20 ti (80 min):**  
+**v20 on (80 min):**  
+**v21 ti (80 min):**  
+**v21 on (80 min):**  
+**v22 ti (80 min):**  
+**v22 on (80 min):**  
+**v23 ti (80 min):**  
+**v23 on (0 min):** skolavslutning  
+**v24 ti (0 min):**  
+**v24 on (0 min):**  
 
 * [exam.net/fysik](https://exam.net/fysik)  
 
