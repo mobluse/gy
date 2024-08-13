@@ -126,7 +126,7 @@
 **v22 fr (0 min):** lov  
 **v23 ti (85 min):**  
 **v23 on (0 min):** skolavslutning  
-**v23 fr (0 min):** nationaldagen 
+**v23 fr (0 min):** nationaldagen  
 **v24 ti (0 min):**  
 **v24 on (0 min):**  
 **v24 fr (0 min):**  
