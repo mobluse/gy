@@ -143,7 +143,6 @@
 
 * [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
 * [PhET Fysik](https://phet.colorado.edu/en/simulations/filter?locale=sv&subjects=physics&type=html,prototype)  
-* [Scratch-studio för Fysik 2](https://scratch.mit.edu/studios/33395332)  
 * [Scratch-studio för fysik i allmänhet](https://scratch.mit.edu/studios/243209)  
 * [YouTube-spellista om fysik](https://www.youtube.com/playlist?list=PLUx1NFKWh2OGMSiIEH2w4P-HaR8j6CyW5)  
 * [Physics Crash Course på YouTube](https://youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&si=5ZMK_3aU2UyWxvSO)  
