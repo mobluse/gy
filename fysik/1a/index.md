@@ -148,10 +148,9 @@
 * [Physics Crash Course på YouTube](https://youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&si=5ZMK_3aU2UyWxvSO)  
 * [The Mechanical Universe, Caltech på Youtube](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)  
 * [Feynman's Messenger Lectures](https://www.feynmanlectures.caltech.edu/messenger.html)  
-* [Georgios Smedja: Fysik 2](http://www.georgiostheodoridis.se/sv/articles.php?cid=8)  
+* [Georgios Smedja: Fysik 1](http://www.georgiostheodoridis.se/sv/articles.php?cid=7)  
 * [Matematikbegrepp på olika språk](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/resurser-for-undervisning-i-modersmal#h-Matematikbegreppochandramaterialforundervisningimatematik)
-* [Shock diamond](https://en.wikipedia.org/wiki/Shock_diamond) från foto på [Photos](https://photos.app.goo.gl/jkHCUrvScrMH8fqaA)
-
+  
 Boktips:  
 * *Repetitionskurs i fysik* av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
 * *Om mått och män* av Sten von Friesen (L)  
