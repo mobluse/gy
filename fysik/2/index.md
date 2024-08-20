@@ -97,6 +97,7 @@
 | Buller | [Android](https://play.google.com/store/apps/details?id=se.av.buller) | [iPhone](https://apps.apple.com/se/app/buller/id418022274?platform=iphone) |
 | Crash Course | [Android](https://play.google.com/store/apps/details?id=com.complexly.thecrashcourse) | [iPhone](https://apps.apple.com/us/app/crash-course-watch-and-study/id1505594172) |  
 
+* [Smakprov Impuls Fysik 2](https://www.smakprov.se/smakprov/visa/9789140677082/partner/smakprov/)
 * [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
 * [PhET Fysik](https://phet.colorado.edu/en/simulations/filter?locale=sv&subjects=physics&type=html,prototype)  
 * [Scratch-studio för Fysik 2](https://scratch.mit.edu/studios/33395332)  
@@ -108,6 +109,7 @@
 * [Georgios Smedja: Fysik 2](http://www.georgiostheodoridis.se/sv/articles.php?cid=8)  
 * [Matematikbegrepp på olika språk](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/resurser-for-undervisning-i-modersmal#h-Matematikbegreppochandramaterialforundervisningimatematik)
 * [Shock diamond](https://en.wikipedia.org/wiki/Shock_diamond) från foto på [Photos](https://photos.app.goo.gl/jkHCUrvScrMH8fqaA)
+* [Geogebra för fysik](https://youtube.com/playlist?list=PL4mFo8V5oEramkajnT_--gqWENeK0rhvV&si=XMecDiZ3oR4U8guz)
 
 Boktips:  
 * *Repetitionskurs i fysik* av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
