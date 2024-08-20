@@ -141,6 +141,7 @@
 | Buller | [Android](https://play.google.com/store/apps/details?id=se.av.buller) | [iPhone](https://apps.apple.com/se/app/buller/id418022274?platform=iphone) |
 | Crash Course | [Android](https://play.google.com/store/apps/details?id=com.complexly.thecrashcourse) | [iPhone](https://apps.apple.com/us/app/crash-course-watch-and-study/id1505594172) |  
 
+* [Smakprov Fysik 1](https://www.smakprov.se/smakprov/visa/9789140674159/partner/smakprov/)
 * [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
 * [PhET Fysik](https://phet.colorado.edu/en/simulations/filter?locale=sv&subjects=physics&type=html,prototype)  
 * [Scratch-studio för fysik i allmänhet](https://scratch.mit.edu/studios/243209)  
