@@ -1,59 +1,59 @@
 # Fysik 1a, 150 poäng
-**v33 on (95 min):**  
-**v33 fr (80 min):**  
-**v34 ti (85 min):**  
-**v34 on (95 min):**  
-**v34 fr (80 min):**  
-**v35 ti (85 min):**  
-**v35 on (95 min):**  
-**v35 fr (80 min):**  
-**v36 ti (85 min):**  
-**v36 on (95 min):**  
-**v36 fr (80 min):**  
-**v37 ti (85 min):**  
-**v37 on (95 min):**  
-**v37 fr (80 min):**  
-**v38 ti (85 min):**  
-**v38 on (95 min):**  
-**v38 fr (80 min):**  
+**v33 on (95 min):** Vad är fysik?  
+**v33 fr (80 min):** Vad är fysik?  
+**v34 ti (85 min):** Vad är fysik?  
+**v34 on (95 min):** Vad är fysik?  
+**v34 fr (80 min):** Vad är fysik?  
+**v35 ti (85 min):** Fysikens grunder  
+**v35 on (95 min):** Fysikens grunder  
+**v35 fr (80 min):** Fysikens grunder  
+**v36 ti (85 min):** Fysikens grunder  
+**v36 on (95 min):** Fysikens grunder  
+**v36 fr (80 min):** Fysikens grunder  
+**v37 ti (85 min):** Rörelse  
+**v37 on (95 min):** Rörelse  
+**v37 fr (80 min):** Rörelse  
+**v38 ti (85 min):** Rörelse  
+**v38 on (95 min):** Rörelse  
+**v38 fr (80 min):** Rörelse  
 **v39 ti (0 min):** studiedag  
-**v39 on (95 min):**  
-**v39 fr (80 min):**  
-**v40 ti (85 min):**  
-**v40 on (95 min):**  
-**v40 fr (80 min):**  
-**v41 ti (85 min):**  
-**v41 on (95 min):**  
-**v41 fr (80 min):**  
-**v42 ti (85 min):**  
-**v42 on (95 min):**  
-**v42 fr (80 min):**  
-**v43 ti (85 min):**  
-**v43 on (95 min):**  
-**v43 fr (80 min):**  
+**v39 on (95 min):** Rörelse  
+**v39 fr (80 min):** Rörelse  
+**v40 ti (85 min):** Kraft  
+**v40 on (95 min):** Kraft  
+**v40 fr (80 min):** Kraft  
+**v41 ti (85 min):** Kraft  
+**v41 on (95 min):** Kraft  
+**v41 fr (80 min):** Kraft  
+**v42 ti (85 min):** Kraft  
+**v42 on (95 min):** Kraft  
+**v42 fr (80 min):** Kraft  
+**v43 ti (85 min):** Kraft  
+**v43 on (95 min):** Kraft  
+**v43 fr (80 min):** Kraft  
 **v44 ti (0 min):** höstlov  
 **v44 on (0 min):** höstlov  
 **v44 fr (0 min):** höstlov  
-**v45 ti (85 min):**  
-**v45 on (95 min):**  
-**v45 fr (80 min):**  
-**v46 ti (85 min):**  
-**v46 on (95 min):**  
-**v46 fr (80 min):**  
-**v47 ti (85 min):**  
-**v47 on (95 min):**  
-**v47 fr (80 min):**  
-**v48 ti (85 min):**  
+**v45 ti (85 min):** Energi och rörelsemängd  
+**v45 on (95 min):** Energi och rörelsemängd  
+**v45 fr (80 min):** Energi och rörelsemängd  
+**v46 ti (85 min):** Energi och rörelsemängd  
+**v46 on (95 min):** Energi och rörelsemängd  
+**v46 fr (80 min):** Energi och rörelsemängd  
+**v47 ti (85 min):** Energi och rörelsemängd  
+**v47 on (95 min):** Energi och rörelsemängd  
+**v47 fr (80 min):** Energi och rörelsemängd  
+**v48 ti (85 min):** Tryck  
 **v48 on (0 min):** studiedag  
-**v48 fr (80 min):**  
-**v49 ti (85 min):**  
-**v49 on (95 min):**  
-**v49 fr (80 min):**  
-**v50 ti (85 min):**  
-**v50 on (95 min):**  
-**v50 fr (80 min):**  
-**v51 ti (85 min):**  
-**v51 on (95 min):**  
+**v48 fr (80 min):** Tryck  
+**v49 ti (85 min):** Tryck  
+**v49 on (95 min):** Tryck  
+**v49 fr (80 min):** Tryck  
+**v50 ti (85 min):** Värme och temperatur  
+**v50 on (95 min):** Värme och temperatur  
+**v50 fr (80 min):** Värme och temperatur  
+**v51 ti (85 min):** Värme och temperatur  
+**v51 on (95 min):** Värme och temperatur  
 **v51 fr (0 min):** julavslutning  
 **v52 ti (0 min):** jullov  
 **v52 on (0 min):** jullov  
@@ -62,67 +62,67 @@
 **v1 on (0 min):** jullov  
 **v1 fr (0 min):** jullov  
 **v2 ti (0 min):** jullov  
-**v2 on (95 min):** elevstart  
-**v2 fr (80 min):**  
-**v3 ti (85 min):**  
-**v3 on (95 min):**  
-**v3 fr (80 min):**  
-**v4 ti (85 min):**  
-**v4 on (95 min):**  
-**v4 fr (80 min):**  
-**v5 ti (85 min):**  
-**v5 on (95 min):**  
-**v5 fr (80 min):**  
-**v6 ti (85 min):**  
-**v6 on (95 min):**  
-**v6 fr (80 min):**  
-**v7 ti (85 min):**  
-**v7 on (95 min):**  
-**v7 fr (80 min):**  
+**v2 on (95 min):** elevstart: Värme och temperatur  
+**v2 fr (80 min):** Värme och temperatur  
+**v3 ti (85 min):** Hållbar energiförsörjning   
+**v3 on (95 min):** Hållbar energiförsörjning  
+**v3 fr (80 min):** Hållbar energiförsörjning  
+**v4 ti (85 min):** Hållbar energiförsörjning  
+**v4 on (95 min):** Hållbar energiförsörjning  
+**v4 fr (80 min):** Hållbar energiförsörjning  
+**v5 ti (85 min):** Hållbar energiförsörjning  
+**v5 on (95 min):** Hållbar energiförsörjning  
+**v5 fr (80 min):** Hållbar energiförsörjning  
+**v6 ti (85 min):** Hållbar energiförsörjning  
+**v6 on (95 min):** Elektricitet  
+**v6 fr (80 min):** Elektricitet  
+**v7 ti (85 min):** Elektricitet  
+**v7 on (95 min):** Elektricitet  
+**v7 fr (80 min):** Elektricitet  
 **v8 ti (0 min):** sportlov  
 **v8 on (0 min):** sportlov  
 **v8 fr (0 min):** sportlov  
-**v9 ti (85 min):**  
-**v9 on (95 min):**  
-**v9 fr (80 min):**  
-**v10 ti (85 min):**  
-**v10 on (95 min):**  
-**v10 fr (80 min):**  
-**v11 ti (85 min):**  
-**v11 on (95 min):**  
-**v11 fr (80 min):**  
-**v12 ti (85 min):**  
-**v12 on (95 min):**  
-**v12 fr (80 min):**  
-**v13 ti (85 min):**  
+**v9 ti (85 min):** Elektricitet  
+**v9 on (95 min):** Elektricitet  
+**v9 fr (80 min):** Elektricitet  
+**v10 ti (85 min):** Elektricitet  
+**v10 on (95 min):** Elektricitet  
+**v10 fr (80 min):** Elektricitet  
+**v11 ti (85 min):** Relativitetsteori och partikelfysik  
+**v11 on (95 min):** Relativitetsteori och partikelfysik  
+**v11 fr (80 min):** Relativitetsteori och partikelfysik  
+**v12 ti (85 min):** Relativitetsteori och partikelfysik  
+**v12 on (95 min):** Relativitetsteori och partikelfysik  
+**v12 fr (80 min):** Relativitetsteori och partikelfysik  
+**v13 ti (85 min):** Relativitetsteori och partikelfysik  
 **v13 on (0 min):** studiedag  
-**v13 fr (80 min):**  
-**v14 ti (85 min):**  
-**v14 on (95 min):**  
-**v14 fr (80 min):**  
-**v15 ti (85 min):**  
-**v15 on (95 min):**  
-**v15 fr (80 min):**  
+**v13 fr (80 min):** Relativitetsteori och partikelfysik  
+**v14 ti (85 min):** Kärnfysik  
+**v14 on (95 min):** Kärnfysik  
+**v14 fr (80 min):** Kärnfysik  
+**v15 ti (85 min):** Kärnfysik  
+**v15 on (95 min):** Kärnfysik  
+**v15 fr (80 min):** Kärnfysik  
 **v16 ti (0 min):** påsklov  
 **v16 on (0 min):** påsklov  
 **v16 fr (0 min):** påsklov  
-**v17 ti (85 min):**  
-**v17 on (95 min):**  
-**v17 fr (80 min):**  
-**v18 ti (85 min):**  
-**v18 on (95 min):**  
+**v17 ti (85 min):** Kärnfysik  
+**v17 on (95 min):** Kärnfysik  
+**v17 fr (80 min):** Kärnfysik  
+**v18 ti (85 min):** Kärnfysik  
+**v18 on (95 min):** Kärnfysik  
 **v18 fr (0 min):** lov  
-**v19 ti (85 min):**  
-**v19 on (95 min):**  
-**v19 fr (80 min):**  
-**v20 ti (85 min):**  
-**v20 on (95 min):**  
-**v20 fr (80 min):**  
-**v21 ti (85 min):**  
-**v21 on (95 min):**  
-**v21 fr (80 min):**  
-**v22 ti (85 min):**  
-**v22 on (95 min):**  
+**v19 ti (85 min):** Kärnfysik  
+**v19 on (95 min):** Kärnfysik  
+**v19 fr (80 min):** Kärnfysik  
+**v20 ti (85 min):** Repetition  
+**v20 on (95 min):** Repetition  
+**v20 fr (80 min):** Repetition  
+**v21 ti (85 min):** Repetition  
+**v21 on (95 min):** Repetition  
+**v21 fr (80 min):** Repetition och Kursprov  
+**v22 ti (85 min):** Repetition  
+**v22 on (95 min):** Repetition  
 **v22 fr (0 min):** lov  
 **v23 ti (85 min):**  
 **v23 on (0 min):** skolavslutning  
