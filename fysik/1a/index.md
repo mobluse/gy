@@ -141,6 +141,7 @@
 | Buller | [Android](https://play.google.com/store/apps/details?id=se.av.buller) | [iPhone](https://apps.apple.com/se/app/buller/id418022274?platform=iphone) |
 | Crash Course | [Android](https://play.google.com/store/apps/details?id=com.complexly.thecrashcourse) | [iPhone](https://apps.apple.com/us/app/crash-course-watch-and-study/id1505594172) |  
 
+* [Hotet från asteroiderna](https://www.svtplay.se/video/eXYgL7z/vetenskapens-varld-hotet-fran-asteroiderna)
 * [Smakprov Fysik 1](https://www.smakprov.se/smakprov/visa/9789140674159/partner/smakprov/)
 * [Webapps on Physics](https://www.walter-fendt.de/html5/phen/)  
 * [PhET Fysik](https://phet.colorado.edu/en/simulations/filter?locale=sv&subjects=physics&type=html,prototype)  
@@ -156,7 +157,7 @@ Boktips:
 * *Repetitionskurs i fysik* av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
 * *Om mått och män* av Sten von Friesen (L)  
 * *The Cartoon Guide to Physics* av Larry Gonick & Art Huffman  
-* *QED*, *The Character of Physical Law*, & *Six Easy Pieces* av Richard P. Feynman  
+* *The Character of Physical Law*, & *Six Easy Pieces* av Richard P. Feynman  
 * *Vad Einstein verkligen sagt* av Josef Wagner.  
 * Här är en bra bok online om matematisk problemlösning: [*Problemlösning - En handbok i rationellt tänkande*](http://www.kevius.com/polya/) av G. Polya. Originalets titel: *How to Solve It*.  
 <!-- https://gy.orbin.se/fysik/b/-->  
