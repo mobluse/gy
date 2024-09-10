@@ -1,18 +1,18 @@
 # Fysik 2, 100 poäng
 **v33 on (80 min):** Rörelse och krafter s. 6-  
-**v34 ti (80 min):** Rörelse och krafter  
+**v34 ti (80 min):** Rörelse och krafter 
 **v34 on (80 min):** Rörelse och krafter  
 **v35 ti (80 min):** Rörelse och krafter  
 **v35 on (80 min):** Rörelse och krafter  
-**v36 ti (80 min):** Rörelse och krafter s. 6-18  
+**v36 ti (80 min):** Rörelse och krafter s. -18  
 **v36 on (80 min):** Rörelse och krafter s. 19-24  
 **v37 ti (80 min):** Rörelse och krafter s. 25-31  
 **v37 on (80 min):** Rörelse och krafter s. 32-37  
 **v38 ti (80 min):** Rörelse och krafter s. 38-43  
 **v38 on (80 min):** Rörelse och krafter s. 44-53  
 **v39 ti (0 min):** studiedag  
-**v39 on (80 min):** Rörelse och krafter  
-**v40 ti (80 min):** Ljud och andra mekaniska vågor   
+**v39 on (80 min):** Rörelse och krafter: KM.se  
+**v40 ti (80 min):** Ljud och andra mekaniska vågor: R&k prov på KM.se  
 **v40 on (80 min):** Ljud och andra mekaniska vågor  
 **v41 ti (80 min):** Ljud och andra mekaniska vågor  
 **v41 on (80 min):** Ljud och andra mekaniska vågor  
