@@ -10,16 +10,16 @@
 **v36 ti (85 min):** Fysikens grunder  
 **v36 on (95 min):** Fysikens grunder  
 **v36 fr (80 min):** Fysikens grunder  
-**v37 ti (85 min):** Rörelse  
-**v37 on (95 min):** Rörelse  
-**v37 fr (80 min):** Rörelse  
-**v38 ti (85 min):** Rörelse  
-**v38 on (95 min):** Rörelse  
-**v38 fr (80 min):** Rörelse  
+**v37 ti (85 min):** Fysikens grunder  
+**v37 on (95 min):** Fysikens grunder & Rörelse: s. 46-49 (a182, a917, a653, a352, a678)  
+**v37 fr (80 min):** Rörelse: s. 50-55 (a467, a904 tds1, a974, a108, a306)  
+**v38 ti (85 min):** Rörelse: s. 56-60 (a417, a861, a566, a873, a199)  
+**v38 on (95 min):** Rörelse: s. 61-67  
+**v38 fr (80 min):** Rörelse: s. 68-72  
 **v39 ti (0 min):** studiedag  
-**v39 on (95 min):** Rörelse  
-**v39 fr (80 min):** Rörelse  
-**v40 ti (85 min):** Kraft  
+**v39 on (95 min):** Rörelse: s. 73-78  
+**v39 fr (80 min):** Rörelse: s. 79-83  
+**v40 ti (85 min):** Rörelse: s. 84-85  
 **v40 on (95 min):** Kraft  
 **v40 fr (80 min):** Kraft  
 **v41 ti (85 min):** Kraft  
