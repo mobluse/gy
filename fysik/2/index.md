@@ -112,11 +112,12 @@
 * [Geogebra för fysik](https://youtube.com/playlist?list=PL4mFo8V5oEramkajnT_--gqWENeK0rhvV&si=XMecDiZ3oR4U8guz)
 
 Boktips:  
-* *Repetitionskurs i fysik* av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
-* *Om mått och män* av Sten von Friesen (L)  
-* *The Cartoon Guide to Physics* av Larry Gonick & Art Huffman  
-* *QED*, *The Character of Physical Law*, & *Six Easy Pieces* av Richard P. Feynman  
-* *Vad Einstein verkligen sagt* av Josef Wagner.  
+* [*Repetitionskurs i fysik*](http://libris.kb.se/bib/8353113) av George Adie, Lars Gislén & Tomas Wahnström ([Lösningar](https://gy.orbin.se/fysik/Repetitionskurs_i_fysik_lsg.pdf)) (L)  
+* [*Om mått och män*](http://libris.kb.se/bib/7605365) av Sten von Friesen (L)  
+* [*Koka soppa på fysik : en bok om matlagning*](http://libris.kb.se/bib/7797746) av Hans-Uno Bengtsson (fysiker) & Jan Boris-Möller (kock) (L)  
+* [*The Cartoon Guide to Physics*](http://libris.kb.se/bib/4495015) av Larry Gonick & Art Huffman  
+* [*QED*](https://libris.kb.se/bib/4573384), [*The Character of Physical Law*](https://libris.kb.se/bib/4574689) & [*Six Easy Pieces*](https://libris.kb.se/bib/4704009) av Richard P. Feynman  
+* [*Vad Einstein verkligen sagt*](http://libris.kb.se/bib/7233387) av Josef Wagner  
 * Här är en bra bok online om matematisk problemlösning: [*Problemlösning - En handbok i rationellt tänkande*](http://www.kevius.com/polya/) av G. Polya. Originalets titel: *How to Solve It*.  
 <!-- https://gy.orbin.se/fysik/b/-->  
 
