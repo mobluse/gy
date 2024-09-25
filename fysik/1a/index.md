@@ -160,7 +160,7 @@ Boktips:
 * [*The Cartoon Guide to Physics*](http://libris.kb.se/bib/4495015) av Larry Gonick & Art Huffman  
 * [*The Character of Physical Law*](https://libris.kb.se/bib/4574689) & [*Six Easy Pieces*](https://libris.kb.se/bib/4704009) av Richard P. Feynman  
 * [*Vad Einstein verkligen sagt*](http://libris.kb.se/bib/7233387) av Josef Wagner  
-* Här är en bra bok online om matematisk problemlösning: [*Problemlösning - En handbok i rationellt tänkande*](http://www.kevius.com/polya/) av G. Polya. Originalets titel: *How to Solve It*.  
+* Här är en bra bok online om matematisk problemlösning: [*Problemlösning - En handbok i rationellt tänkande*](http://www.kevius.com/polya/) av G. Polya. Originalets titel: [*How to Solve It*](http://libris.kb.se/hitlist?q=WFRF%3a(P%c3%b3lya+George+1887+1985)&r=%3b(libcode%3aO_MaU+OR+libcode%3aO_LUB)&d=libris&m=10&p=1&s=c). Andra [översättningar](https://www.goodreads.com/work/editions/185862-how-to-solve-it-a-new-aspect-of-mathematical-method-princeton-science?filter_by_format=&sort=date_published&utf8=%E2%9C%93): [arabiska](https://archive.org/details/14740928/mode/2up).  
 <!-- https://gy.orbin.se/fysik/b/-->  
 
 [Fysikolympiaden](https://sv.wikipedia.org/wiki/Fysikolympiaden):  
